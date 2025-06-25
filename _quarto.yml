@@ -3,9 +3,9 @@ project:
 
 website:
   title: "CNG Education Working Group meeting notes"
-  site-url: "https://geojupyter.org"
+  site-url: "https://cng-education.github.io/meeting-notes/"
 
-  repo-url: &repo-url "https://cng-education.github.io/meeting-notes/"
+  repo-url: &repo-url "https://github.com/cng-education/meeting-notes/"
   repo-actions: ["edit", "issue"]
 
   navbar:
