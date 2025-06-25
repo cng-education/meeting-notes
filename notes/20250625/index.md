@@ -24,7 +24,7 @@ Your name / org / github handle
     - [ ] All: Start populating stuff!
     - [ ] Hopefully Michelle: Go through issues, redirect folks to the new doc.
 - [ ] All: Think about / research what does it mean to make our docs "Ai-ready"?
-- [ ] Matt: Set up infrastructure for meeting notes.
+- [x] Matt: Set up infrastructure for meeting notes.
 
 
 ## Notes
