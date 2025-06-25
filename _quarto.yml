@@ -1,0 +1,26 @@
+project:
+  type: "website"
+
+website:
+  title: "CNG Education Working Group meeting notes"
+  site-url: "https://geojupyter.org"
+
+  repo-url: "https://cng-education.github.io/meeting-notes/"
+  repo-actions: ["edit", "issue"]
+
+  navbar:
+    left:
+      - text: "Home"
+        href: "index.md"
+      - text: "Notes"
+        href: "notes/index.md"
+
+
+format:
+  html:
+    from: "markdown+emoji"
+    theme:
+      - "cosmo"
+      - "brand"
+    css: "styles.css"
+    toc: true
