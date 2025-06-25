@@ -9,11 +9,7 @@ website:
   repo-actions: ["edit", "issue"]
 
   navbar:
-    left:
-      - text: "Home"
-        href: "index.md"
-      - text: "Notes"
-        href: "notes/index.md"
+    left: []
 
 
 format:
