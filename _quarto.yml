@@ -5,11 +5,21 @@ website:
   title: "CNG Education Working Group meeting notes"
   site-url: "https://geojupyter.org"
 
-  repo-url: "https://cng-education.github.io/meeting-notes/"
+  repo-url: &repo-url "https://cng-education.github.io/meeting-notes/"
   repo-actions: ["edit", "issue"]
 
   navbar:
     left: []
+    right:
+      - icon: "rss"
+        aria-label: "Subscribe"
+        href: "index.xml"
+      - icon: "cloud"
+        aria-label: "Cloud Native Geospatial"
+        href: "https://cloudnativegeo.org/"
+      - icon: "github"
+        aria-label: "GitHub"
+        href: *repo-url
 
 
 format:
