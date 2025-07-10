@@ -31,7 +31,7 @@ Your name / GitHub ID / affiliation
 - [ ] Andrew: Look for a contact who has a background in educational visualization.
     - [ ] Andrew: Document what we're looking for help with and share with Michelle.
     - [ ] Michelle: Outreach on Slack!
-- [ ] 
+- [ ]
 
 
 ## Notes
@@ -42,7 +42,7 @@ Your name / GitHub ID / affiliation
 - Meeting notes repo: https://github.com/cng-education/meeting-notes
     - Webpage: https://cng-education.github.io/meeting-notes/
 - Shared doc for gathering technologies, concepts, etc.: https://docs.google.com/document/d/127cRbNW1KlpBX5wjLRAXHJyGWYVetJxXKtuAwpGzbNA/edit?usp=sharing
-- Have some non-CNG stuff on there, but indicate the importance of that thing. 
+- Have some non-CNG stuff on there, but indicate the importance of that thing.
 - Brings back the timeline idea and the importance of how it connects to stuff outside the CNG community
     - Think of "vector" and "raster" as y-axis bins, and the x-axis binned into generations / eras over time.
 - Tyler: A good example of describing tech using history: https://earthmover.io/blog/fundamentals-what-is-cloud-optimized-scientific-data
