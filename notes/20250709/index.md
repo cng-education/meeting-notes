@@ -31,7 +31,6 @@ Your name / GitHub ID / affiliation
 - [ ] Andrew: Look for a contact who has a background in educational visualization.
     - [ ] Andrew: Document what we're looking for help with and share with Michelle.
     - [ ] Michelle: Outreach on Slack!
-- [ ]
 
 
 ## Notes
