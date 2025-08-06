@@ -35,8 +35,8 @@ Your name / GitHub ID / affiliation / icebreaker
     - project manager might
     - --> determine the typical problems folks run into to determine what would be helpful for folks
     - layers / levels
-    - importance of a cohesive picture from the outset. and compelling! (whats the problem & understanding where they are comfortable right now)
-    - Stephanie says keep the farmer / related user persona. Land manager? NGO. Watersheds, whats getting in the water supply.
+    - importance of a cohesive picture from the outset. and compelling! (what's the problem & understanding where they are comfortable right now)
+    - Stephanie says keep the farmer / related user persona. Land manager? NGO. Watersheds, what's getting in the water supply.
 
 - Doc is an inventory so that could be content for what we are building. Helpful for this group to be on the same page
 - First thing should be hitting all 3 of our user personas
