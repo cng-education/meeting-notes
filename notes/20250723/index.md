@@ -21,7 +21,7 @@ Your name / GitHub ID / affiliation / icebreaker
 * Michelle Roby / Powerchell / Radiant Earth / ?
 * Jarrett Keifer / jkeifer / Element 84 / ?
 * Youssef Harby / Youssef-Harby /
-
+* Stephanie May / @mizmay / ?
 
 ## Notes
 
