@@ -42,12 +42,12 @@ Your name / GitHub ID / affiliation / icebreaker
     - Follow carpenties' lead (see: https://swcarpentry.github.io/git-novice/):
         - Chunk the lessons up
         - Index the chunks well
-        - Set expectations (prerequesites, outcomes) at the beginning of each chunk
+        - Set expectations (prerequisites, outcomes) at the beginning of each chunk
         - Enables a "build your own adventure approach"
         - Personas don't describe everyone in a category, e.g. geographers. Personas act as a lens for us to design the curriculum for various perspectives. Not necessarily a user interface element, e.g. Click the "I am a geographer" button and then be taken to relevant lessons.
             - An extra in the future could be persona-based entry-points, but avoiding that up-front will help us reduce the scope and make it easier to start.
     - If we're defining preqreqs for the lessons, what about building a DAG of lessons that enables users to explore the dependency graph of the materials? (visualize as a graph?)
-    - Introductory materials shoudl be project-focused with a cool outcome!
+    - Introductory materials should be project-focused with a cool outcome!
         - But important to have deeply-referenced content backing up the instructional materials
         - Could start with hand-holdy, high-level, cool, on-rails example to help people visualize themselves doing cool stuff, then dig in to the more "boring" examples.
 - What do we do next? How do we move from planning to doing?
