@@ -18,7 +18,7 @@ Please add new agenda items under the `New agenda items` heading!
 Your name / GitHub ID / affiliation / icebreaker
 
 * Matt Fisher / @mfisher87 / DSE / ?
-* Andrew Smith / asmithml/ me 
+* Andrew Smith / asmithml/ me
 * Jarrett Keifer / @jkeifer / Element 84 / ?
 * Michelle Roby / PowerChell / Radiant Earth / ?
 
@@ -28,7 +28,7 @@ Your name / GitHub ID / affiliation / icebreaker
 - [ ] Add to user persona descriptions
   [in issue #11](https://github.com/cng-education/curriculum/issues/11)
 - [ ] Matt & Jarrett: think about Quarto as a platform, linkage
-- [ ] Matt: Update our meeting notes template to reflect structure of this one. 
+- [ ] Matt: Update our meeting notes template to reflect structure of this one.
 - [ ] Andrew: Fill out more user personas in [Google Doc](https://docs.google.com/document/d/13agrJurFJeVToxya7CJuQKAh28jRIA_wgOps-7sDjXo/edit?tab=t.0) - project manager and land manager.
 - [ ] Michelle: Go through #2 and write up a summary of each one, categorize/group them as relates to persona scenarios.
 
@@ -40,7 +40,7 @@ Your name / GitHub ID / affiliation / icebreaker
 - Goal for the day: Review [Stephanies user personas](https://github.com/cng-education/curriculum/issues/11#issuecomment-3161128841)
 - Curriculum design
     - Follow carpenties' lead (see: https://swcarpentry.github.io/git-novice/):
-        - Chunk the lessons up 
+        - Chunk the lessons up
         - Index the chunks well
         - Set expectations (prerequesites, outcomes) at the beginning of each chunk
         - Enables a "build your own adventure approach"
@@ -57,8 +57,8 @@ Your name / GitHub ID / affiliation / icebreaker
 
 * Personas are a lens for design
 * Build curriculum in a way that users can "create their own adventure"
-    * Defining prereqs and outcomes, maybe link lessons together to generate a map 
-    
+    * Defining prereqs and outcomes, maybe link lessons together to generate a map
+
 #### Next step
 
 Pick one initial scope, e.g. raster data
